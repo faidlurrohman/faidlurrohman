@@ -1,4 +1,4 @@
-# Hi there, I'm @faidlurrohman 👋
+- 👋 Hi there, I'm @faidlurrohman
 - 🌱 I’m currently learning Java and PHP
 - 👀 I’m interested in Java, ReactJS, VueJS, NodeJS, Laravel, etc
 - 📫 You can reach me by email : faidrohman@outlook.com
