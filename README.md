@@ -48,3 +48,12 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faidlurrohman&theme=radical" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faidlurrohman&layout=donut&theme=radical">
+</div>
+
+---
